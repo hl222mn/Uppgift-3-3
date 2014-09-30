@@ -5,7 +5,6 @@
     color: FFF;
     font-family: "Verdana", sans-serif;
 }
-
 #container{
 	width: 600px;
 	background-color: #EAE7D2;
@@ -14,7 +13,6 @@
     font-family: verdana;
     font-color: #797066;
 }
-		
 #topbar	{
     background: #51473D;
     text-align: right;
@@ -24,7 +22,6 @@
 }
 #menu {
     background-image: url(pics/coffey.jpg) /*a href="#maincontent">Skip navigation</a>*/;
-
 }    
     
 /*inpiration från http://www.htmlgoodies.com/beyond/css/how-to-create-horizontal-navigation-with-css3.html*/		
@@ -38,16 +35,13 @@
     background-color: #51473D;
     border-radius: 0px;
 }
-
 #menu ul {
     background-color: #51473D;
     height: auto;
     padding: 5px 0px;
     margin-left: 0px;
     margin-top: 179px
-    
 }
-
 #menu li {
 	display: inline;
 	padding: 1px 1px 5px 0px;
@@ -69,28 +63,19 @@
     color: #3d3d3d;
     background-color: #EAE7D2;
 }
-			
-
 #content {
-    
     margin-top: 50px;
     width: 600px;
-    
 }
 #maincontent {
-    
     position: relative;
     right: -5px;
     float: left;
-    
 }
-
 #maincontent h1 {
     font-family: "Times New Roman", serif;
     color: #797066;
 }
-
-
 #maincontent h2 {
 	width: 240px;
 	font-family: "Times New Roman", serif;
@@ -103,8 +88,6 @@
     width: 240px;
     color: #797066;
 }
-
-				
 #subcontent {
     position: relative;
     left: 50px;
@@ -112,7 +95,6 @@
 	float: left;
 	width: 180px;
 	color: #797066;
-
 }				
 #subcontent h1 {
 	font-family: "Times New Roman", serif;
@@ -137,9 +119,6 @@
 #subcontent p {
     font-size: 10px;
 }
-			
-
-				
 #bottomcontent {
 	background-color: #EAE7D2;
     text-align: left;
